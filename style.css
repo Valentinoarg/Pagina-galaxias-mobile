@@ -62,16 +62,17 @@ body{
 .container-list-nav{
     display: flex;
     justify-content: space-around;
+    border: 2px solid #fff;
+    background-color: RGBA(110,110,110,0.6);
+    padding: 10px;
 }
 
 .text-li{
-    font-size: 20px;
-    border: 2px solid;
-    padding: 5px;
+    font-size: 25px;
 }
 
 .link-li{
-    margin-top: 10px;
+    margin-top: 8px;
 }
 
 /* estilos main*/
@@ -93,4 +94,7 @@ body{
     justify-content: space-around;
     text-align: center;
     margin: 20px;
+    border: 2px solid #fff;
+    background-color: RGBA(110,110,110,0.6);
+    padding: 10px;
 }

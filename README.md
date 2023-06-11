@@ -5,4 +5,4 @@ Lo que utilizé de leguanjes que utilizé el html y css.
 
 Puse Fotos, fondos, links.
  
-<a href="">Ir a mi página<a>
+<a href="https://valentinoarg.github.io/Pagina-galaxias-mobile/">Ir a mi página<a>

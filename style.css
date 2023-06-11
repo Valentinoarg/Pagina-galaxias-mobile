@@ -37,7 +37,7 @@ a{
     text-decoration: none;
 }
 
-p, a{
+p, a, li{
     font-family: 'Zilla Slab', serif;
 }
 
@@ -62,6 +62,12 @@ body{
 .container-list-nav{
     display: flex;
     justify-content: space-around;
+}
+
+.text-li{
+    font-size: 20px;
+    border: 2px solid;
+    padding: 5px;
 }
 
 /* estilos main*/
